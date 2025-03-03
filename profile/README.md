@@ -1,8 +1,9 @@
 # Madrecha Solutions
 
 ## Software Solutions: 
-* <a href="https://www.edisonlee55.com">Jamku Practice Management Software</a>
-* <a href="https://twitter.com/edisonlee55">Jamku Portal (Automated Tax Litigation Management)</a>
+* [Jamku Practice Management Software](https://madrecha.com/jamku/)
+* [Jamku Portal (Automated Tax Litigation Management)](https://portal.jamku.app)
+
 
 ## Side Projects
 * [Income Tax Bill 2025](https://ai.jamku.app/incometax2025) \
